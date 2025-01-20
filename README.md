@@ -7,11 +7,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mcd.luan/)
 
 <br/>
-
 ![mcdcwb Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcdcwb&hide_progress=true&theme=radical)
-
 <br/>
-
   ### Tecs
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
