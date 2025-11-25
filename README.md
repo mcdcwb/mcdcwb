@@ -6,7 +6,7 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcdcwb&hide_progress=true&theme=radical)
+![Top Langs](https://github-readme-stats-mcdcwb.vercel.app/api/top-langs/?username=mcdcwb&theme=radical)
 
 
 <br/>
