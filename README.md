@@ -3,7 +3,7 @@
 Sou graduado em Análise e Desenvolvimento de Sistemas e atualmente estou utilizando minhas habilidades técnicas para desenvolver projetos web front-end e aperfeiçoar minha base em back-end. 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-wheat-one.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portifolio-luanmachado.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanmachadof/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mcdcwb)
 
